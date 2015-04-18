@@ -7,12 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E357A3FA1AD9986800E1F0D6 /* RecipeListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E357A3F91AD9986800E1F0D6 /* RecipeListViewController.swift */; };
+		E35BCC641ADA6864005C3C9C /* RecipeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35BCC631ADA6864005C3C9C /* RecipeTableViewCell.swift */; };
+		E3A1A5601ADA6F6000064233 /* pudding_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E3A1A55F1ADA6F6000064233 /* pudding_1.jpg */; };
+		E3A1A5631ADA9A8800064233 /* mentsuyu_1.png in Resources */ = {isa = PBXBuildFile; fileRef = E3A1A5621ADA9A8800064233 /* mentsuyu_1.png */; };
+		E3A1A5701ADADCC000064233 /* pudding_1_07.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E3A1A5681ADADCC000064233 /* pudding_1_07.jpg */; };
+		E3A1A5711ADADCC000064233 /* pudding_1_06.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E3A1A5691ADADCC000064233 /* pudding_1_06.jpg */; };
+		E3A1A5721ADADCC000064233 /* pudding_1_02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E3A1A56A1ADADCC000064233 /* pudding_1_02.jpg */; };
+		E3A1A5731ADADCC000064233 /* pudding_1_05.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E3A1A56B1ADADCC000064233 /* pudding_1_05.jpg */; };
+		E3A1A5741ADADCC000064233 /* pdding_1_01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E3A1A56C1ADADCC000064233 /* pdding_1_01.jpg */; };
+		E3A1A5751ADADCC000064233 /* pudding_1_03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E3A1A56D1ADADCC000064233 /* pudding_1_03.jpg */; };
+		E3A1A5761ADADCC000064233 /* pudding_1_04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E3A1A56E1ADADCC000064233 /* pudding_1_04.jpg */; };
+		E3A1A5771ADADCC000064233 /* pudding_1_08.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E3A1A56F1ADADCC000064233 /* pudding_1_08.jpg */; };
+		E3A1A57B1ADAF87D00064233 /* IngredientsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3A1A57A1ADAF87D00064233 /* IngredientsTableViewCell.swift */; };
+		E3B411C61ADC217F007EDC77 /* MesureViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3B411C51ADC217F007EDC77 /* MesureViewController.swift */; };
 		E3C32AE31AD8E104009E77A9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C32AE21AD8E104009E77A9 /* AppDelegate.swift */; };
-		E3C32AE51AD8E104009E77A9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C32AE41AD8E104009E77A9 /* ViewController.swift */; };
 		E3C32AE81AD8E104009E77A9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E3C32AE61AD8E104009E77A9 /* Main.storyboard */; };
 		E3C32AEA1AD8E104009E77A9 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E3C32AE91AD8E104009E77A9 /* Images.xcassets */; };
 		E3C32AED1AD8E104009E77A9 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E3C32AEB1AD8E104009E77A9 /* LaunchScreen.xib */; };
 		E3C32AF91AD8E104009E77A9 /* InteglassAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C32AF81AD8E104009E77A9 /* InteglassAppTests.swift */; };
+		E3C32B051AD91F54009E77A9 /* Integlass_main.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E3C32B041AD91F54009E77A9 /* Integlass_main.jpg */; };
+		E3C32B0D1AD934E9009E77A9 /* RecipeDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3C32B0C1AD934E9009E77A9 /* RecipeDetailViewController.swift */; };
+		E3C32B451AD9458E009E77A9 /* info_recipe.json in Resources */ = {isa = PBXBuildFile; fileRef = E3C32B441AD9458E009E77A9 /* info_recipe.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,16 +42,32 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E357A3F91AD9986800E1F0D6 /* RecipeListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecipeListViewController.swift; sourceTree = "<group>"; };
+		E35BCC631ADA6864005C3C9C /* RecipeTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RecipeTableViewCell.swift; path = ../RecipeTableViewCell.swift; sourceTree = "<group>"; };
+		E3A1A55F1ADA6F6000064233 /* pudding_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pudding_1.jpg; sourceTree = "<group>"; };
+		E3A1A5621ADA9A8800064233 /* mentsuyu_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mentsuyu_1.png; sourceTree = "<group>"; };
+		E3A1A5681ADADCC000064233 /* pudding_1_07.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pudding_1_07.jpg; sourceTree = "<group>"; };
+		E3A1A5691ADADCC000064233 /* pudding_1_06.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pudding_1_06.jpg; sourceTree = "<group>"; };
+		E3A1A56A1ADADCC000064233 /* pudding_1_02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pudding_1_02.jpg; sourceTree = "<group>"; };
+		E3A1A56B1ADADCC000064233 /* pudding_1_05.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pudding_1_05.jpg; sourceTree = "<group>"; };
+		E3A1A56C1ADADCC000064233 /* pdding_1_01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pdding_1_01.jpg; sourceTree = "<group>"; };
+		E3A1A56D1ADADCC000064233 /* pudding_1_03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pudding_1_03.jpg; sourceTree = "<group>"; };
+		E3A1A56E1ADADCC000064233 /* pudding_1_04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pudding_1_04.jpg; sourceTree = "<group>"; };
+		E3A1A56F1ADADCC000064233 /* pudding_1_08.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pudding_1_08.jpg; sourceTree = "<group>"; };
+		E3A1A57A1ADAF87D00064233 /* IngredientsTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = IngredientsTableViewCell.swift; path = ../IngredientsTableViewCell.swift; sourceTree = "<group>"; };
+		E3B411C51ADC217F007EDC77 /* MesureViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MesureViewController.swift; path = ../MesureViewController.swift; sourceTree = "<group>"; };
 		E3C32ADD1AD8E104009E77A9 /* InteglassApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InteglassApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3C32AE11AD8E104009E77A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E3C32AE21AD8E104009E77A9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		E3C32AE41AD8E104009E77A9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		E3C32AE71AD8E104009E77A9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E3C32AE91AD8E104009E77A9 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		E3C32AEC1AD8E104009E77A9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		E3C32AF21AD8E104009E77A9 /* InteglassAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InteglassAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3C32AF71AD8E104009E77A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E3C32AF81AD8E104009E77A9 /* InteglassAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InteglassAppTests.swift; sourceTree = "<group>"; };
+		E3C32B041AD91F54009E77A9 /* Integlass_main.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Integlass_main.jpg; sourceTree = "<group>"; };
+		E3C32B0C1AD934E9009E77A9 /* RecipeDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecipeDetailViewController.swift; sourceTree = "<group>"; };
+		E3C32B441AD9458E009E77A9 /* info_recipe.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = info_recipe.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,9 +88,44 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E3A1A5611ADA6F6700064233 /* img_recipe */ = {
+			isa = PBXGroup;
+			children = (
+				E3A1A5671ADADCAB00064233 /* pudding_1 */,
+				E3A1A5621ADA9A8800064233 /* mentsuyu_1.png */,
+			);
+			name = img_recipe;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		E3A1A5661ADAD8D300064233 /* data */ = {
+			isa = PBXGroup;
+			children = (
+				E3C32B441AD9458E009E77A9 /* info_recipe.json */,
+			);
+			name = data;
+			sourceTree = "<group>";
+		};
+		E3A1A5671ADADCAB00064233 /* pudding_1 */ = {
+			isa = PBXGroup;
+			children = (
+				E3A1A5681ADADCC000064233 /* pudding_1_07.jpg */,
+				E3A1A5691ADADCC000064233 /* pudding_1_06.jpg */,
+				E3A1A56A1ADADCC000064233 /* pudding_1_02.jpg */,
+				E3A1A56B1ADADCC000064233 /* pudding_1_05.jpg */,
+				E3A1A56C1ADADCC000064233 /* pdding_1_01.jpg */,
+				E3A1A56D1ADADCC000064233 /* pudding_1_03.jpg */,
+				E3A1A56E1ADADCC000064233 /* pudding_1_04.jpg */,
+				E3A1A56F1ADADCC000064233 /* pudding_1_08.jpg */,
+				E3A1A55F1ADA6F6000064233 /* pudding_1.jpg */,
+			);
+			name = pudding_1;
+			sourceTree = "<group>";
+		};
 		E3C32AD41AD8E104009E77A9 = {
 			isa = PBXGroup;
 			children = (
+				E3C32B041AD91F54009E77A9 /* Integlass_main.jpg */,
 				E3C32ADF1AD8E104009E77A9 /* InteglassApp */,
 				E3C32AF51AD8E104009E77A9 /* InteglassAppTests */,
 				E3C32ADE1AD8E104009E77A9 /* Products */,
@@ -77,9 +144,15 @@
 		E3C32ADF1AD8E104009E77A9 /* InteglassApp */ = {
 			isa = PBXGroup;
 			children = (
+				E3A1A57A1ADAF87D00064233 /* IngredientsTableViewCell.swift */,
+				E3A1A5661ADAD8D300064233 /* data */,
+				E3A1A5611ADA6F6700064233 /* img_recipe */,
+				E35BCC631ADA6864005C3C9C /* RecipeTableViewCell.swift */,
 				E3C32AE21AD8E104009E77A9 /* AppDelegate.swift */,
-				E3C32AE41AD8E104009E77A9 /* ViewController.swift */,
 				E3C32AE61AD8E104009E77A9 /* Main.storyboard */,
+				E3B411C51ADC217F007EDC77 /* MesureViewController.swift */,
+				E357A3F91AD9986800E1F0D6 /* RecipeListViewController.swift */,
+				E3C32B0C1AD934E9009E77A9 /* RecipeDetailViewController.swift */,
 				E3C32AE91AD8E104009E77A9 /* Images.xcassets */,
 				E3C32AEB1AD8E104009E77A9 /* LaunchScreen.xib */,
 				E3C32AE01AD8E104009E77A9 /* Supporting Files */,
@@ -161,6 +234,7 @@
 				TargetAttributes = {
 					E3C32ADC1AD8E104009E77A9 = {
 						CreatedOnToolsVersion = 6.2;
+						DevelopmentTeam = 4NMV6FR8JU;
 					};
 					E3C32AF11AD8E104009E77A9 = {
 						CreatedOnToolsVersion = 6.2;
@@ -192,9 +266,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E3A1A5711ADADCC000064233 /* pudding_1_06.jpg in Resources */,
+				E3A1A5701ADADCC000064233 /* pudding_1_07.jpg in Resources */,
+				E3A1A5731ADADCC000064233 /* pudding_1_05.jpg in Resources */,
+				E3A1A5761ADADCC000064233 /* pudding_1_04.jpg in Resources */,
 				E3C32AE81AD8E104009E77A9 /* Main.storyboard in Resources */,
+				E3A1A5601ADA6F6000064233 /* pudding_1.jpg in Resources */,
+				E3A1A5631ADA9A8800064233 /* mentsuyu_1.png in Resources */,
+				E3A1A5751ADADCC000064233 /* pudding_1_03.jpg in Resources */,
 				E3C32AED1AD8E104009E77A9 /* LaunchScreen.xib in Resources */,
+				E3C32B451AD9458E009E77A9 /* info_recipe.json in Resources */,
+				E3A1A5741ADADCC000064233 /* pdding_1_01.jpg in Resources */,
+				E3A1A5721ADADCC000064233 /* pudding_1_02.jpg in Resources */,
+				E3A1A5771ADADCC000064233 /* pudding_1_08.jpg in Resources */,
 				E3C32AEA1AD8E104009E77A9 /* Images.xcassets in Resources */,
+				E3C32B051AD91F54009E77A9 /* Integlass_main.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -212,8 +298,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E3C32AE51AD8E104009E77A9 /* ViewController.swift in Sources */,
+				E3A1A57B1ADAF87D00064233 /* IngredientsTableViewCell.swift in Sources */,
+				E3B411C61ADC217F007EDC77 /* MesureViewController.swift in Sources */,
 				E3C32AE31AD8E104009E77A9 /* AppDelegate.swift in Sources */,
+				E35BCC641ADA6864005C3C9C /* RecipeTableViewCell.swift in Sources */,
+				E3C32B0D1AD934E9009E77A9 /* RecipeDetailViewController.swift in Sources */,
+				E357A3FA1AD9986800E1F0D6 /* RecipeListViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -336,9 +426,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = InteglassApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -346,9 +442,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = InteglassApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -405,6 +507,7 @@
 				E3C32AFE1AD8E104009E77A9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E3C32AFF1AD8E104009E77A9 /* Build configuration list for PBXNativeTarget "InteglassAppTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +516,7 @@
 				E3C32B011AD8E104009E77A9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

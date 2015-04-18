@@ -12,9 +12,29 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
-
+    
+    //buffer json data
+    
+    
+    //number of recipes
+    var num_recipes = 0
+    var recipes: Array<AnyObject> = []
+    
+    //now selected recipe id
+    var selectedRecipeId = -1
+    
+    var cellCount = 0
+    var num_nowIngredients = -1
+    var nextingredientIndex = 0
+    
+    
+    
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
+        
+        
+        
+        
         // Override point for customization after application launch.
         return true
     }
